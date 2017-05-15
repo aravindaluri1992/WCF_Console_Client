@@ -1,0 +1,6 @@
+D:\Aravind\WCFDemo1\CustomerService\Client\bin\Debug\Client.exe.config
+D:\Aravind\WCFDemo1\CustomerService\Client\bin\Debug\Client.exe
+D:\Aravind\WCFDemo1\CustomerService\Client\bin\Debug\Client.pdb
+D:\Aravind\WCFDemo1\CustomerService\Client\obj\Debug\Client.exe
+D:\Aravind\WCFDemo1\CustomerService\Client\obj\Debug\Client.pdb
+D:\Aravind\WCFDemo1\CustomerService\Client\obj\Debug\Client.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+D:\Aravind\WCFDemo1\CustomerService\CustomerService\bin\Debug\CustomerService.dll.config
+D:\Aravind\WCFDemo1\CustomerService\CustomerService\bin\Debug\CustomerService.dll
+D:\Aravind\WCFDemo1\CustomerService\CustomerService\bin\Debug\CustomerService.pdb
+D:\Aravind\WCFDemo1\CustomerService\CustomerService\obj\Debug\CustomerService.dll
+D:\Aravind\WCFDemo1\CustomerService\CustomerService\obj\Debug\CustomerService.pdb
